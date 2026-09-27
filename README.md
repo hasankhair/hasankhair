@@ -3,7 +3,7 @@
 ## 🎨 ˚｡ ⋆ Projects ⋆ ｡˚
 | Project Name | Platform | Links |
 | :--- | :--- | :--- |
-| 🎮 **Basic Web Page** | HTML | [Repo](https://github.com/HasanKhair/Basic-Web-Page) • [Demo](...) |
+| 🎮 **Basic Web Page** | HTML | [Repo](https://github.com/hasankhairadzman/Basic-Web-Page) • [Demo](...) |
 
 
 ## 🛠️ ˚｡ ⋆ Technical Skills ⋆ ｡˚
